@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GAI3_Kinematic\Script\SeekPlusArrive.cs">
+    <Files>
+      <File FileName="Assets\GAI3_Kinematic\Script\Tugas1.cs" Line="1" Column="1" />
+      <File FileName="Assets\GAI3_Kinematic\Script\KinematicData.cs" Line="1" Column="1" />
+      <File FileName="Assets\GAI3_Kinematic\Script\SteeringData.cs" Line="1" Column="1" />
+      <File FileName="Assets\GAI3_Kinematic\Script\Seek.cs" Line="1" Column="1" />
+      <File FileName="Assets\GAI3_Kinematic\Script\SeekPlusArrive.cs" Line="107" Column="80" />
+      <File FileName="Assets\GAI3_Kinematic\Script\SteerSeekColl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
